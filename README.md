@@ -18,8 +18,8 @@ https://food-ordering-app-b6ddf.web.app/
 
 Home Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/SyedQalab/food-ordering-app/blob/main/src/assets/ss-home.jpg)
 
 Cart Popup
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/SyedQalab/food-ordering-app/blob/main/src/assets/ss-cart.jpg)
