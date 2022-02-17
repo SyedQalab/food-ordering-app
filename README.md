@@ -11,6 +11,8 @@ https://food-ordering-app-b6ddf.web.app/
 
 ## What's used in this project
 - Context API (useContext)
+- Fetch API (GET, POST)
+- Firebase realtime database
 - useState,  useReducer, useRef, useEffect
 - Portals // used for cart popup
 - CSS Modules 
